@@ -5,8 +5,9 @@
 
 - 🌱 I’m currently learning **Biomedical Engineering**
 
-- 📫 How to reach me **2524918@dundee.ac.uk**
+- 👨‍💻 All of my projects are available at [Medical Imaging, Deep Learning, Medical Device](Medical Imaging, Deep Learning, Medical Device)
 
+- 📫 How to reach me **2524918@dundee.ac.uk**
 
 <p align="left">
 </p>
