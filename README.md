@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendyj22&label=Profile%20views&color=0e75b6&style=flat" alt="wendyj22" /> </p>
 
-- 🌱 I’m currently learning **Biomedical Engineering**
+- 🌱 I’m currently studying **Biomedical Engineering**
 
 - 📫 How to reach me **2524918@dundee.ac.uk**
 
